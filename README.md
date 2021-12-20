@@ -1,10 +1,12 @@
-### Hi there! 👋
+## __**Hello there!**__ 👋
 
-#### 🔭 I’m currently working on learning the necessary Java packages for my upcoming internship<br/>
-#### 🌱 I’m currently learning Java-based Automation Frameworks (Serenity BDD, Cucumber, JUnit)<br/>
-#### 👯 I’m looking to collaborate on hackaton projects and other group projects<br/>
-#### 📫 How to reach me: https://www.linkedin.com/in/kevin-yang-23102a222/<br/>
-#### ⚡ Fun fact: I don't really know what I am doing but I'm trying my best<br/>
+
+- 🔭 **I am currently working on learning the necessary Java packages for my upcoming internship**
+- 🌱 **I am currently learning Java-based Automation Frameworks (Serenity BDD, Cucumber, JUnit)**
+- 👯 **I am looking to collaborate on hackaton projects and other group projects**
+- 📫 **How to reach me:** https://www.linkedin.com/in/kevin-yang-23102a222/
+- ⚡ **Fun fact: I don't really know what I am doing but I'm trying my best**
+
 
 <!--
 **kevyang267/kevyang267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
