@@ -1,8 +1,9 @@
 ## __**Hello there!**__ 👋
 
 
-- 🔭 **I am currently working on learning the necessary Java packages for my upcoming internship**
-- 🌱 **I am currently learning Java-based Automation Frameworks (Serenity BDD, Cucumber, JUnit)**
+- 🔭 **I am currently in university and learning multi-threading and working in a capstone project**
+- 😄 **I am currently applying for new jobs!**
+- 🌱 **I am currently learning more web development stacks**
 - 📫 **How to reach me:** https://www.linkedin.com/in/kevin-yang-23102a222/
 - ⚡ **Fun fact: I am just excited to learn new things and find new technology fascinating.**
 
