@@ -3,9 +3,8 @@
 
 - 🔭 **I am currently working on learning the necessary Java packages for my upcoming internship**
 - 🌱 **I am currently learning Java-based Automation Frameworks (Serenity BDD, Cucumber, JUnit)**
-- 👯 **I am looking to collaborate on hackaton projects and other group projects**
 - 📫 **How to reach me:** https://www.linkedin.com/in/kevin-yang-23102a222/
-- ⚡ **Fun fact: I don't really know what I am doing but I'm trying my best**
+- ⚡ **Fun fact: I am just excited to learn new things and find new technology fascinating.**
 
 
 <!--
