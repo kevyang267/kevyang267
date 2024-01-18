@@ -1,7 +1,7 @@
 ## __**Hello there!**__ 👋
 
 
-- 🔭 **I am currently in university and learning multi-threading and working in a capstone project**
+- 🔭 **I am currently in university and working with the faculty of education on a new chat bot with AI**
 - 😄 **I am currently applying for new jobs!**
 - 🌱 **I am currently learning more web development stacks**
 - 📫 **How to reach me:** https://www.linkedin.com/in/kevin-yang-23102a222/
