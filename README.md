@@ -3,7 +3,7 @@
 
 - 🔭 **I am currently in university and working with the faculty of education on a new chat bot with AI**
 - 😄 **I am currently applying for new jobs!**
-- 🌱 **I am currently learning more web development stacks**
+- 🌱 **I am currently learning more web development stacks (Angular + BootStrap)**
 - 📫 **How to reach me:** https://www.linkedin.com/in/kevin-yang-23102a222/
 - ⚡ **Fun fact: I am just excited to learn new things and find new technology fascinating.**
 
