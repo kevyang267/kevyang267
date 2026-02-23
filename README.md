@@ -1,8 +1,8 @@
 ## __**Hello there!**__ 👋
 
 
-- 🔭 **I am currently working as an application developer!**
-- 🌱 **I am currently honing my skills as a developer through web services and security standards such as OWASP**
+- 🔭 **I am currently working as a software developer!**
+- 🌱 **I am currently honing my skills as a full stack developer through .NET and Angular**
 - 📫 **How to reach me:** https://www.linkedin.com/in/kevin-yang-23102a222/
 - ⚡ **Fun fact: I lost some of my love for photography, but I am trying to improve my skills slowly**
 
